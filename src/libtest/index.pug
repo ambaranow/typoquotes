@@ -1,0 +1,21 @@
+doctype html
+html(lang="ru")
+  head
+    title
+      | typograph app
+    meta(charset="utf-8")
+    link(rel="stylesheet", href="libtest.min.css?appVersionControlFlag")
+  body
+    include ./../test/test.pug
+    script(src="http://prettydiff.com/lib/global.js")
+    script(src="http://prettydiff.com/lib/diffview.js")
+    script(src="http://prettydiff.com/lib/language.js")
+    script(src="http://prettydiff.com/lib/options.js")
+    script(src="http://prettydiff.com/lib/finalFile.js")
+    script(src="http://prettydiff.com/lib/csspretty.js")
+    script(src="http://prettydiff.com/lib/csvpretty.js")
+    script(src="http://prettydiff.com/lib/jspretty.js")
+    script(src="http://prettydiff.com/lib/markuppretty.js")
+    script(src="http://prettydiff.com/prettydiff.js")
+    script(src="./../typoquotes/typoquotes.min.js?appVersionControlFlag")
+    script(src="libtest.min.js?appVersionControlFlag")
