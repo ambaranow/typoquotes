@@ -1,4 +1,4 @@
-/*! typoquotes v0.1.0 *//******/ (function(modules) { // webpackBootstrap
+/*! typoquotes v0.1.1 *//******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
