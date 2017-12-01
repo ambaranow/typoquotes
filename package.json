@@ -1,9 +1,9 @@
 {
   "name": "typoquotes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "javascript for browser and wysiwyg editor typography, tinymce typography plugin set quotes, dashes, etc.",
   "author": "ambaranow <ambaranow@gmail.com>",
-  "keywords": ["typography", "wysiwyg", "tinymce plugin"],
+  "keywords": ["typography", "wysiwyg", "tinymce plugin", "javascript"],
   "repository": {"type":"git", "url":"https://github.com/ambaranow/typoquotes.git"},
   "license": "UNLICENSED" ,
   "scripts": {

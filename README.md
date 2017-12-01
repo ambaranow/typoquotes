@@ -6,6 +6,10 @@ JS-класс для преобразования текстов: расстан
 
 -----
 
+# Install
+
+`npm install typoquotes` or `yarn install typoquotes`
+
 # Run
 
 * `npm start` - run for dev
