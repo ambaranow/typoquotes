@@ -1,7 +1,7 @@
 let performReplace = require('./../perform/Replace')
 
 export default function processMath (text) {
-  text = text.replace(/(\d)(\s)?(.)(\s)?(\d)/g, '$1$3$5')
+  text = text.replace(/(\d)(\s)?(\/)(\s)?(\d)/g, '$1$3$5')
   const table = new Map([
     [/\{!=}/g, '\u{2260}'],
     [/\{~}/g, '\u{2248}'],
