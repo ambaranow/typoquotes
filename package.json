@@ -1,6 +1,6 @@
 {
   "name": "typoquotes",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "javascript for browser and wysiwyg editor typography, tinymce typography plugin set quotes, dashes, etc.",
   "author": "ambaranow <ambaranow@gmail.com>",
   "keywords": ["typography", "wysiwyg", "tinymce plugin", "javascript"],
